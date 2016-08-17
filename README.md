@@ -251,6 +251,7 @@ File Organization:
 * Reversed Linked List II ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/reversed_list_2.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ReversedLinkedListII.java))
 * Reverse Int ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/reverse_int.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ReverseInteger.java))
 * Reverse Word In a String ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/reverse_words_in_string.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ReverseWordsInAString.java))
+* Reverse Vowels of a String ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/reverse_vowels_of_a_string.py))
 * Roman to Int ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/roman_to_int.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/RomanToInteger.java))
 * Rotate Image ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/rotate_image.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/RotateImage.java))
 * Rotate List ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/rotate_list.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/RotateList.java))
@@ -285,6 +286,7 @@ File Organization:
 * Wildcard Matching ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/wildcard_matching.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/WildcardMatching.java))
 * Word Break ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/word_break.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/WordBreak.java))
 * Word Search ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/word_search.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/WordSearch.java))
+* Ugly Number ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/ugly_number.py))
 
 ## [recursive](https://github.com/yxjiang/algorithms/tree/master/src/main/java/algorithm/recursive)
 * [lowest common ancestor](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/recursive/LowestCommonAncestor.java)
