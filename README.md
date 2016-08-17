@@ -285,6 +285,7 @@ File Organization:
 * Wildcard Matching ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/wildcard_matching.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/WildcardMatching.java))
 * Word Break ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/word_break.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/WordBreak.java))
 * Word Search ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/word_search.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/WordSearch.java))
+* Ugly Number ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/ugly_number.py))
 
 ## [recursive](https://github.com/yxjiang/algorithms/tree/master/src/main/java/algorithm/recursive)
 * [lowest common ancestor](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/recursive/LowestCommonAncestor.java)
