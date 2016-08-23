@@ -198,6 +198,8 @@ File Organization:
 * Excel Sheet Column Number ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/excel_sheet_column_number.py))
 * Factorial Trailing Zeros ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/factorial_trailing_zeros.py))
 * Find Minimum in Rotated Sorted Array ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/find_min_in_rotated_sorted_array.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/FindMinimumInRotatedSortedArray.java))
+* First Unique Character in String
+([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/first_unique_character_in_string.py))
 * Flatten Binary Tree to Linked List ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/flatten_binary_tree_to_linked_list.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/FlattenBinaryTreeToLinkedList.java))
 * Four Sum ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/four_sum.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/FourSum.java))
 * Gas Station ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/gas_station.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/GasStation.java))
