@@ -248,6 +248,7 @@ File Organization:
 * Pow ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/pow.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/Pow.java))
 * Recover Binary Search Tree ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/recover_bst.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/RecoverBinarySearchTree.java))
 * Power of 4 ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/power_of_4.py))
+* Rectangle Area ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/rectangle_area.py))
 * Regular Expression Matching ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/regular_expression_match.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/RegularExpressionMatching.java)) 
 * Remove Duplicates from Sorted List ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/remove_duplicates_from_sorted_list.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/RemoveDuplicatesFromSortedList.java))
 * Remove Duplicates from Sorted List II ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/remove_duplicates_from_sorted_list_2.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/RemoveDuplicatesFromSortedListII.java))
