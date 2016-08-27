@@ -260,6 +260,7 @@ File Organization:
 * Remove Element  ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/remove_element.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/RemoveElement.java))
 * Remove Linked List Elements ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/remove_linked_list_elements.py))
 * Reorder List ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/reorder_list.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ReorderList.java))
+* Reverse Bits ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/reverse_bits.py))
 * Reversed Linked List ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/reversed_linked_list.py)) 
 * Reversed Linked List II ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/reversed_list_2.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ReversedLinkedListII.java))
 * Reverse Int ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/reverse_int.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ReverseInteger.java))
