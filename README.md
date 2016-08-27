@@ -295,6 +295,7 @@ File Organization:
 * Valid Sudoku ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/valid_sudoku.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ValidSudoku.java))
 * Wildcard Matching ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/wildcard_matching.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/WildcardMatching.java))
 * Word Break ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/word_break.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/WordBreak.java))
+* Word Pattern ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/word_pattern.py))
 * Word Search ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/word_search.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/WordSearch.java))
 * Ugly Number ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/ugly_number.py))
 
