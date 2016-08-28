@@ -195,6 +195,7 @@ File Organization:
 * Container with Most Water ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/container_with_most_water.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ContainerWithMostWater.java)) 
 * Convert Sorted Array to BST ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/convert_sorted_array_to_bst.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ConvertSortedArrayToBinarySearchTree.java))
 * Convert Sorted List to BST ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/convert_sorted_list_to_bst.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ConvertSortedListToBinarySearchTree.java))
+* Count Primes ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/count_primes.py))
 * Delete Node in a Linked List ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/delete_node_in_a_linked_list.py))
 * Distinct Subsequences ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/distinct_subsequences.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/DistinctSubsequences.java))
 * Excel Sheet Column Number ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/excel_sheet_column_number.py))
