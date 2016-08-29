@@ -3,7 +3,8 @@ class Solution:
   def threeSum(self, num):
     num = sorted(num)
     res = []
-    for i in range(len(num) - 2):
+    i = 0
+    while i < len(num) - 2:
       j = i + 1
       k = len(num) - 1
       while j < k:
@@ -19,7 +20,8 @@ class Solution:
           j += 1
         else:
           k -= 1
-      while i < len(num) - 2 and num[i] == num[i + 1]:
+      i += 1
+      while i < len(num) - 2 and num[i] == num[i - 1]:
         i += 1
         
     return res
