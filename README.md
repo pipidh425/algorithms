@@ -194,6 +194,7 @@ File Organization:
 * Contains Duplicate ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/contains_duplicate_ii.py))
 * Count Primes ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/count_primes.py))
 * Counting Bits ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/counting_bits.py))
+* Count Numbers with Unique Digits ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/count_numbers_with_unique_digits.py))
 * Copy List With Random Pointer ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/copy_list_with_random_pointer.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/CopyListWithRandomPointer.java))
 * Container with Most Water ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/container_with_most_water.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ContainerWithMostWater.java)) 
 * Convert Sorted Array to BST ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/convert_sorted_array_to_bst.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ConvertSortedArrayToBinarySearchTree.java))
