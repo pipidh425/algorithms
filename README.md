@@ -280,6 +280,7 @@ File Organization:
 * Search A 2D Matrix ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/search_a_2d_matrix.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/SearchA2DMatrix.java))
 * Search Insert Position ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/find_insert_position.py))
 * Set Matrix Zeros ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/set_matrix_zeros.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/SetMatrixZeroes.java))
+* Shuffle an Array ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/shuffle_an_array.py))
 * Single Number ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/single_number.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/SingleNumber.java))
 * Single Number II ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/single_number_2.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/SingleNumberII.java))
 * Single Number III ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/single_number_iii.py))
