@@ -218,6 +218,7 @@ File Organization:
 * Implement Queue using Stacks ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/implement_queue_using_stacks.py))
 * Implement Stack using Queues ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/implement_stack_using_queues.py))
 * Integer Break ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/integer_break.py))
+* Integer Replacement ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/integer_replacement.py))
 * Integer to Roman ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/int_to_roman.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/IntegerToRoman.java))
 * Insertion Sort List ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/insertion_sort_list.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/InsertionSortList.java))
 * Interleaving String ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/InterleavingString.java))
