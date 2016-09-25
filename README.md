@@ -243,6 +243,7 @@ File Organization:
 * Minimum Path Sum ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/minimum_path_sum.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/MinimumPathSum.java))
 * Multiply String ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/multiply_string.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/MultiplyString.java))
 * Next Permutation ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/next_permutation.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/NextPermutation.java))
+* Nth Digit ([pyhon](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/nth_digit.py))
 * N-Queens ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/N_queens.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/NQueens.java))
 * N-Queens II ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/N_queens_2.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/NQueensII.java))
 * Number of Unique Binary Search Tree ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/num_trees.py))
