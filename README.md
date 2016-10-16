@@ -210,6 +210,7 @@ File Organization:
 * First Bad Version ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/first_bad_version.py))
 * First Unique Character in String
 ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/first_unique_character_in_string.py))
+* Fizz Buzz ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/fizzbuzz.py))
 * Flatten Binary Tree to Linked List ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/flatten_binary_tree_to_linked_list.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/FlattenBinaryTreeToLinkedList.java))
 * Four Sum ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/four_sum.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/FourSum.java))
 * Gas Station ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/gas_station.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/GasStation.java))
