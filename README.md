@@ -301,6 +301,7 @@ File Organization:
 * Subset ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/subset.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/Subset.java))
 * Substring with Concatenation of All Words ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/substr_with_concatenation_of_all_words.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/SubstringWithConcatenationOfAllWords.java))
 * Sum Root to Leaf Numbers ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/sum_root_to_leaf_numbers.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/SumRootToLeafNumbers.java))
+* Sum of Left Leaves ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/sum_of_left_leaves.py))
 * Swap Nodes in Pairs ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/swap_nodes_in_pairs.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/SwapNodesInPairs.java))
 * Symmetric Tree ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/symmetric_tree.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/SymmetricTree.java))
 * Three Sum ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/three_sum.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ThreeSum.java))
