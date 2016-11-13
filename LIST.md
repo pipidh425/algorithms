@@ -200,6 +200,7 @@ File Organization:
 * Count Numbers with Unique Digits ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/count_numbers_with_unique_digits.py))
 * Copy List With Random Pointer ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/copy_list_with_random_pointer.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/CopyListWithRandomPointer.java))
 * Container with Most Water ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/container_with_most_water.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ContainerWithMostWater.java)) 
+* Convert a Number to Hexadecimal ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/convert_a_number_to_hexadecimal.py))
 * Convert Sorted Array to BST ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/convert_sorted_array_to_bst.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ConvertSortedArrayToBinarySearchTree.java))
 * Convert Sorted List to BST ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/convert_sorted_list_to_bst.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/ConvertSortedListToBinarySearchTree.java))
 * Delete Node in a Linked List ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/delete_node_in_a_linked_list.py))
