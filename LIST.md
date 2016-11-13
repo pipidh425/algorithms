@@ -244,6 +244,7 @@ File Organization:
 * Merge Two Sorted Lists ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/merge_two_sorted_list.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/MergeTwoSortedLists.java))
 * Minimum Depth of Binary Tree ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/minimum_depth_of_binary_tree.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/MinimumDepthOfBinaryTree.java))
 * Minimum Path Sum ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/minimum_path_sum.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/MinimumPathSum.java))
+* Minimum Moves to Make Equal Elements ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/minimum_moves_to_make_equal_elements.py))
 * Multiply String ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/multiply_string.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/MultiplyString.java))
 * Next Permutation ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/next_permutation.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/NextPermutation.java))
 * Nth Digit ([pyhon](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/nth_digit.py))
