@@ -253,6 +253,7 @@ File Organization:
 * Nth Digit ([pyhon](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/nth_digit.py))
 * N-Queens ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/N_queens.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/NQueens.java))
 * N-Queens II ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/N_queens_2.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/NQueensII.java))
+* Number of Segments in a String ([pyhon](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/number_of_segments_in_a_string.py))
 * Number of Unique Binary Search Tree ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/num_trees.py))
 * Palindrome Linked List ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/palindrome_linked_list.py))
 * Palindrome Partition ([python](https://github.com/yxjiang/algorithms/blob/master/src/main/python/lc/palindrome_partition.py)) ([java](https://github.com/yxjiang/algorithms/blob/master/src/main/java/algorithm/lc/PalindromePartition.java))
